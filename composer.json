@@ -1,13 +1,13 @@
 {
-    "name": "admin/oop-praktikum-8",
-    "description": "Praktikum 8 Pemprograman Berbasis Web Lanjutan",
+    "name": "admin/mahasiswa",
+    "description": "Praktikum Pemprograman Berbasis Web Lanjutan",
     "type": "project",
     "require": {
         "php": "^8.2.4"
     },
     "autoload": {
         "psr-4": {
-            "Admin\\OopPraktikum8\\": "src/"
+            "Admin\\mahasiswa\\": "src/"
         }
     },
     "authors": [
